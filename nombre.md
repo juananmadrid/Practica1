@@ -1,5 +1,7 @@
 # Nombre
 
-Juan A. Caballero Montoror
+Juan A. Caballero Montoro. Ingineer
 
 Añdo segundo apellido
+
+Añadi profesion
